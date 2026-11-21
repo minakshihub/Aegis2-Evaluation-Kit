@@ -1,0 +1,66 @@
+
+========================================================
+[!] AEGIS TELEMETRY DUMP | SECURE AGENT: 1
+[!] TRIGGER FLAG: 1024
+========================================================
+T-03 | Time: 2107693101495250 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+T-02 | Time: 2107694308331875 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+T-01 | Time: 2107695343684333 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+T-00 | Time: 2107696456067041 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 1024
+========================================================
+
+========================================================
+[!] AEGIS TELEMETRY DUMP | SECURE AGENT: 1
+[!] TRIGGER FLAG: 1024 (OSCILLATION STREAK / HALLUCINATION)
+========================================================
+T-03 | Time: 2108480706793833 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+T-02 | Time: 2108481790970250 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+T-01 | Time: 2108484841178250 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+T-00 | Time: 2108485932177583 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 1024
+========================================================
+
+[AUTH 1] ID: MINAKSHI_ADMIN | IP: 192.168.0.184 | ACTION: OVERRIDE THROUGHOUT OPERATION
+[AUTH 2] ID: MINAKSHI_ADMIN | IP: 192.168.0.184 | ACTION: OVERRIDE THROUGHOUT OPERATION (EXECUTED)
+
+========================================================================================
+[!] AEGIS TELEMETRY DUMP | SECURE AGENT: 1
+[!] TRIGGER FLAG: 1024 (OSCILLATION STREAK / HALLUCINATION)
+========================================================================================
+Agent: 1     | Event: -3  | Time: 2109126009073750 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -2  | Time: 2109127385452291 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -1  | Time: 2109128481118166 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -0  | Time: 2109129546178208 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 1024
+========================================================================================
+
+[AUTH 1] ID: MINAKSHI_ADMIN | IP: 192.168.0.184 | ACTION: OVERRIDE THROUGHOUT OPERATION
+[AUTH 2] ID: MINAKSHI_ADMIN | IP: 192.168.0.184 | ACTION: OVERRIDE THROUGHOUT OPERATION (EXECUTED)
+
+========================================================================================
+[!] AEGIS TELEMETRY DUMP | SECURE AGENT: 1
+[!] TRIGGER FLAG: 1024 (OSCILLATION STREAK / HALLUCINATION)
+========================================================================================
+Agent: 1     | Event: -3  | Time: 2185932767105375 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -2  | Time: 2185933689020333 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -1  | Time: 2185934578081750 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -0  | Time: 2185935531002875 | Hash: 2900989087 | Tokens:    47 | Bucket:   0 | Flag: 1024
+========================================================================================
+
+[AUTH 1 LOGGED] ID: MINAKSHI_ADMIN | IP: 192.168.0.184 | ACTION: OVERRIDE ONCE
+[!] GOVERNANCE CONFLICT: Auth 1 and Auth 2 commands did not match. Authorizations voided.
+
+[AUTH 1 LOGGED] ID: SYSTEM_ADMIN_2 | IP: 192.168.0.184 | ACTION: OVERRIDE ONCE
+[AUTH 2 VERIFIED] ID: MINAKSHI_ADMIN | IP: 192.168.0.184 | ACTION: OVERRIDE ONCE (EXECUTED!)
+
+========================================================================================
+[!] AEGIS TELEMETRY DUMP | SECURE AGENT: 1
+[!] TRIGGER FLAG: 1024 (OSCILLATION STREAK / HALLUCINATION)
+========================================================================================
+Agent: 1     | Event: -4  | Time: 2192943745469083 | Hash:  464699649 | Tokens:    62 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -3  | Time: 2192946772465500 | Hash: 3714221473 | Tokens:    60 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -2  | Time: 2192946980662083 | Hash: 3714221473 | Tokens:    60 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -1  | Time: 2192947189639666 | Hash: 3714221473 | Tokens:    60 | Bucket:   0 | Flag: 0
+Agent: 1     | Event: -0  | Time: 2192947399505375 | Hash: 3714221473 | Tokens:    60 | Bucket:   0 | Flag: 1024
+========================================================================================
+
+[AUTH 1 LOGGED] ID: MINAKSHI_ADMIN | IP: 192.168.0.184 | ACTION: OVERRIDE ONCE
+[AUTH 2 VERIFIED] ID: SYSTEM_ADMIN_2 | IP: 192.168.0.184 | ACTION: OVERRIDE ONCE (EXECUTED!)
